@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Cenab Batu Bora",
+    "description":"I am a Computer Science and Math degree candidate from University of Alberta and I like to build new decentralized technologies. This page is my webpage and it is fully decentralized.",
+    "image":"profilepic.jpg",
+    "bio":"I was born in Izmir, Turkey. I left my home at early age of 14 to study in different city. Now, I am in Edmonton, Canada, finishing my training to become computer scientist and developer. I am quite interested in Decentralization, Artificial Intelligence, Databases, Finance and Business Management. In my free time, I like to travel to different countries, play boardgames and spend time with my family.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "batu.bora389@gmail.com",
+    "phone": "587-937-5193",
+    "github":"https://github.com/cenab",
+    "project":"https://www.linkedin.com/in/cenab/",
+    "address":{
+      "street":"10950 84 Ave NW",
+      "city":"Edmonton",
+      "state":"AB",
+      "zip": "T6G 0V4"
+    },
+    "website": "http://www.batubora.com",
+    "resumedownload":"https://drive.google.com/file/d/1ptZF4u_oVGw32Kyu_7vehzbzpHTP6cX7/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Batu.Bora.389/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/cenab/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/bora.batu",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/cenab",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Alberta",
+        "degree":"BSc Computing Science Major, Mathematics Minor",
+        "graduated":"June 2022",
+        "description":"Theory of Computation, Operating Systems, Introduction to Software Engineering, Artificial Intelligence, Computer Organization and Architecture, Introduction to File and Database Management, Algorithms I, Practical Programming Methodology Graph Theory."
+      }
+    ],
+    "work":[
+      {
+        "company":"Complete Energy Innovations",
+        "title":"Web Developer Contractor",
+        "years":"July 2020 - March 2021",
+        "description":"Developed the Complete Energy Innovations’s new website using WordPress, managed SEO and implemented Google Analytic."
+      },
+      {
+        "company":"2live Inc.",
+        "title":"Head of Product Development",
+        "years":"March 2020 - September 2020",
+        "description":"Succesfully designed a music focused livestreaming product for the MVP stage and built backend, frontend and livestreaming server of the platform using Google Cloud and RTMP technologies."
+      },
+      {
+        "company":"Vestel International",
+        "title":"Software Engineering Intern at Department of Artificial Intelligence and Big Data",
+        "years":"July 2019 - August 2019",
+        "description":"Worked on new data addition to database, developed scripts to manupilate large amount of data in Python and took part of developement of photo to text translation software for consumer electronics products."
+      },
+      {
+        "company":"Ege University",
+        "title":"Research Intern at Department of Computer Engineering",
+        "years":"March 2020 - September 2020",
+        "description":"Took part in the research, development, and writing of the paper titled “the Agent-based Modeling and Simulation of the Sunn Pests and Wheat Relations”, a project I entered a competition with and “the Agent-based Modeling and Simulation of the Resistance of Bacteria to Antibiotics and presented the paper in international conferance in International Confernace on Engineering Technology and Innovation."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"C/C++",
+        "level":"85%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Java/Android",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"75%"
+      },
+      {
+        "name":"MEAN Stack",
+        "level":"65%"
+      },
+      {
+        "name":"Linux",
+        "level":"90%"
+      },
+      {
+        "name":"Google Cloud",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Novelty",
+        "category":"Novelty is a project for CMPUT-301 team F20T07. The objective is to design a simple, attractive and easy-to-use Android application. It is a mobile application that allows owners to record the books they have and loan them to borrowers.In general, a user can be both an owner of their own books and a borrower of someone else's books. A borrower can borrow an available book by making a request for it. The owner can accept such a request. When the book is handed over, the book becomes borrowed. The owner can denote when a borrowed book is returned and available again",
+        "image":"01.jpg",
+        "url":"https://github.com/CMPUT301F20T07/novelty"
+      },
+      {
+        "title":"Complete Energy Innovation",
+        "category":"Wordpress website for Complete Energy Innovations",
+        "image":"02.jpg",
+        "url":"https://www.completeenergyinc.ca/"
+      },
+      {
+        "title":"ICETI'17",
+        "category":"Agent-based Modeling and Simulation of the Sunn Pest-Wheat Relation and of the Struggle: Simulated the natural ongoing of a sunn-pest bug in a wheat field and certain conditions such as predators, pest control, humidity,weather conditions etc in Java. Research findings are also presented by me in University of Sarajevo in ICETI’17.",
+        "image":"03.jpg",
+        "url":"https://www.iceti.org/sites/default/files/2017-iceti-proceeding-book-v2_0.pdf"
+      },
+      {
+        "title":"Sentiment Analysis of Amazon Reviews",
+        "category":"Designed and developed a script that does sentiment analysis of the Amazon reviews of a designated product using a prepared text file of word analysis gotten using Word2Vec, Gaussian NB algorithm and web-scraping.",
+        "image":"04.jpg",
+        "url":"https://github.com/cenab/sentiment-analysis-on-Amazon-reviews-using-GaussianNB"
+      }
+
+    ]
+  }
+}
