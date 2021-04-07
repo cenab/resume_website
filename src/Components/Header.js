@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import background from 'C:/Users/cenab/Desktop/CMPUT/react-nice-resume/src/images/header-background.mp4';
+//import background from 'C:/Users/cenab/Desktop/CMPUT/react-nice-resume/src/images/header-background.mp4';
 class Header extends Component {
   render() {
     if (!this.props.data) return null;
@@ -11,9 +11,9 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <video autoPlay loop muted id='video'>
-            <source src = {background} type='video/mp4'/> 
-        </video>
+//         <video autoPlay loop muted id='video'>
+//             <source src = {background} type='video/mp4'/> 
+//         </video>
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
